@@ -16,8 +16,8 @@ public class CourseServiceImpl implements CourseService
 	{
 		list = new ArrayList<>();
 		list.add(new Course(1,"CSS","About CSS"));
-		list.add(new Course(2,"JavaEEE","This book is all about Java Standards"));
-		list.add(new Course(3,"Java Adv","This book is all about Java Advanced"));
+		list.add(new Course(2,"EEE","About EEE"));
+		list.add(new Course(3,"Mec","About Mec"));
 	}
 
 	@Override
